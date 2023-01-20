@@ -6,3 +6,4 @@ package.json
 package-lock.json
 .env
 .DS_Store
+BienesRaices_MVC.sql
